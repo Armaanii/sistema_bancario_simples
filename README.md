@@ -1,16 +1,16 @@
-Sistema Bancário Simples - RoBanK
+## Sistema Bancário Simples - RoBanK
 Este é um sistema bancário simples desenvolvido em Python, que simula operações básicas de depósito, saque e extrato. 
 É um projeto inicial para demonstrar o uso de estruturas condicionais e de repetição em Python, ideal para quem está começando a programar.
 
-🚀 Funcionalidades
+##🚀 Funcionalidades
 O sistema oferece as seguintes funcionalidades:
 
-Depósito: Permite adicionar fundos à sua conta.
-Saque: Permite retirar fundos, com limites diários e por transação.
-Extrato: Exibe o histórico de todas as movimentações (depósitos e saques) e o saldo atual.
-Sair: Encerra o sistema.
+- **Depósito: Permite adicionar fundos à sua conta.
+- **Saque: Permite retirar fundos, com limites diários e por transação.
+- **Extrato: Exibe o histórico de todas as movimentações (depósitos e saques) e o saldo atual.
+- **Sair: Encerra o sistema.
 
-✨ Como Usar
+##✨ Como Usar
 Clone o repositório (se estiver em um repositório Git) ou baixe o arquivo main.py (ou o nome do seu arquivo Python).
 
 Execute o arquivo Python a partir do seu terminal:
