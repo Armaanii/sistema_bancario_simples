@@ -16,7 +16,7 @@ LIMITE_SAQUE = 3
 
 nome = input("Digite seu nome :")
 print()
-print(f"Seja bem- vindo " + nome.title()) 
+print(f"Seja bem- vindo a sua conta " + nome.title()) 
 print()
 print("=> Escolha a sua opção abaixo ! <=")
 
@@ -71,6 +71,7 @@ while True:
         print("=======================================")
     
     elif opcao == "Q":
+        print(nome + " obrigado(a) por utilizar RoBank , Volte Sempre!\n")
         break
 
 else:
