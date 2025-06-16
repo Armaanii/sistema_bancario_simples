@@ -1,3 +1,6 @@
+<!-- banner -->
+<img src="https://github.com/Armaanii/sistema_bancario_simples/blob/main/Banner_banco.png">
+
 ## Sistema Bancário Simples - RoBank
 Este é um sistema bancário simples desenvolvido em Python, que simula operações básicas de depósito, saque e extrato. 
 É um projeto inicial para demonstrar o uso de estruturas condicionais e de repetição em Python, ideal para quem está começando a programar.
