@@ -20,7 +20,7 @@ O sistema oferece as seguintes funcionalidades:
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ✨  Como Usar
-1. Clone o repositório (se estiver em um repositório Git) ou baixe o arquivo main.py
+1. Clone o repositório (se estiver em um repositório Git) ou baixe o arquivo  `main.py`
 (ou o nome do seu arquivo Python).
 
 2. Execute o arquivo Python a partir do seu terminal:
@@ -34,10 +34,10 @@ python main.py
 
 4. Um menu será exibido com as opções disponíveis:
 
-- [D] para Depósito
-- [S] para Saque
-- [E] para Extrato
-- [Q] para Sair
+- `[D]` para Depósito
+- `[S]` para Saque
+- `[E]` para Extrato
+- `[Q]` para Sair
   
 5. Siga as instruções na tela para realizar as operações desejadas.
 
@@ -62,6 +62,7 @@ ________________________________________________________________________________
 🛠️ Tecnologias Utilizadas
 
 Python 3.x
+
 
 Contribuição
 
