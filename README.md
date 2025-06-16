@@ -60,13 +60,19 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________
 
 🛠️ Tecnologias Utilizadas
+
 Python 3.x
 
 Contribuição
+
 Este projeto é um exemplo didático e não está aberto a contribuições externas neste momento. 
 No entanto, sinta-se à vontade para bifurcá-lo (fork) e adaptá-lo para seus próprios estudos.
 
 ____________________________________________________________________________________________________________
 
-Autor
-Desenvolvido por Rodrigo Guedes de barros
+- Autor
+  
+*Desenvolvido por Rodrigo Guedes de barros*
+
+<!-- Rodapé -->
+<img src="https://github.com/Armaanii/sistema_bancario_simples/blob/main/Banner_banco_thank.png">
